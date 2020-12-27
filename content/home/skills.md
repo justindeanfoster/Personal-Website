@@ -21,7 +21,7 @@ subtitle = ""
   #description = "Known Languages"
   
 [[feature]]
-  icon = "fas-fa-music"
+  icon = "fas fa-music"
   icon_pack = "fas"
   name = "Saxophone, Piano, Guitar"
   description = "Known Instruments"  
