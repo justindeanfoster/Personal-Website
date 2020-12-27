@@ -18,7 +18,7 @@ subtitle = ""
   icon = "far fa-file-code"
   icon_pack = "far"
   name = "Java, C/C++, Python"
-  #description = "Known Languages"
+  description = "Known Languages"
   
 [[feature]]
   icon = "fas fa-music"
