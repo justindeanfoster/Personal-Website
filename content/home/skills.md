@@ -18,19 +18,19 @@ subtitle = ""
   icon = "far fa-file-code"
   icon_pack = "far"
   name = "Java, C/C++, Python"
-  description = "Known Languages"
+  #description = "Known Languages"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "fas-fa-music"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Saxophone, Piano, Guitar"
+  description = "Known Instruments"  
   
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
   name = "Photography"
-  description = "10%"
+  description = "Favorite Hobby"
 
 # Uncomment to use emoji icons.
 # [[feature]]
