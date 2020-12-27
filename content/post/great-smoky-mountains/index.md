@@ -2,7 +2,7 @@
 title: Great Smoky Mountains
 subtitle: Gatlinburg, Tennessee
 date: 2020-12-27T22:23:25.760Z
-summary: "![](mountains.jpg)"
+summary: "![]()"
 draft: false
 featured: false
 image:
@@ -11,3 +11,5 @@ image:
   preview_only: false
 ---
 This is a picture I took on a recent vacation during winter break. After some edits, it turned into quite a beautiful picture.
+
+![](mountains.jpg)
