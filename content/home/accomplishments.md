@@ -30,7 +30,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Academy of Science and Engineering"
-  organization_url = ""
+  organization_url = "https://cpast.conroeisd.net/"
   title = "1st Place in Scrap Derby Engineering Competiton"
   url = ""
   certificate_url = ""
