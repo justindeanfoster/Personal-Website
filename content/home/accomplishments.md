@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2017-07-20"
   date_end = ""
-  description = ""
+  description = "Earned Eagle Scout Badge After 10 years in the Scouts"
 
 [[item]]
   organization = "Academy of Science and Engineering"
@@ -46,6 +46,6 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2020-12-30"
   date_end = ""
-  description = ""
+  description = "Finished with a 4.0 during an all online semester"
 
 +++
