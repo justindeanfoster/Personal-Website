@@ -43,7 +43,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:justindeanfoster@gmail.org".
 - icon: instagram
   icon_pack: fab
-  link: https://www.instagram.com/justindeanfoster
+  link: https://www.instagram.com/justindeanfoster/
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -54,7 +54,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: "files/Justin Foster - Resume.pdf"
+#   link: "files/JustinFosterResume2021.pdf"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
