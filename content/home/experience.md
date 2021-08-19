@@ -40,6 +40,7 @@ date_format = "Jan 2006"
   * Tasked to build the machine learning and computer vision algorithms that enabled Seeker to identify Northrop-Grumman Cygnus satellite and estimate relative bearing
   * Completed performance analysis and optimization of software to further mission success
 
+  """
 
 [[experience]]
   title = "Coding Instructor"
@@ -51,10 +52,8 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Taught students aged 5-15 in Python, JavaScript, Java, Lua,
-and Scratch
-  * Streamlined teaching skills to maximize time in class in order
-to build Mods for Minecraft, games in Roblox, and fun programs like Tetris
+  * Taught students aged 5-15 in Python, JavaScript, Java, Lua, and Scratch
+  * Streamlined teaching skills to maximize time in class in order to build Mods for Minecraft, games in Roblox, and fun programs like Tetris
   * Tracked progress of as many as 9 students a day and gave constructive feedback for skills requiring improvement.
 """
 
