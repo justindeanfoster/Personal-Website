@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Texas"
   date_start = "2021-02-01"
-  date_end = "Current"
+  date_end = "2021-08-01"
   description = """
   Responsibilities include:
   
@@ -47,8 +47,8 @@ date_format = "Jan 2006"
   company = "CodaKid"
   company_url = ""
   location = "Texas"
-  date_start = "2021-05-01"
-  date_end = "Current"
+  date_start = "2021-04-01"
+  date_end = "2021-08-01"
   description = """
   Responsibilities include:
   
