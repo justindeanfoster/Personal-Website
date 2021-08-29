@@ -8,6 +8,8 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+![](selfie-2-_li.jpg)
+
 <!--StartFragment-->
 
 1. Where did you grow up?
