@@ -31,8 +31,8 @@ image:
    Having our first game day at UT was very fun and seeing everyone proud to be here and proud to be back was a breath of fresh air in relation to how dismal things have been for a while.
 7. **What's your pick-of-the-week or tip-of-the-week?**
 
-   I am beginning to use LaTex for my Algorithms class and to do this, I have been using Overleaf which is a free, online LaTex development environment. While it is great for formatting documents for homeworks, its even better for making a beautiful resume. I have used it for my Resume for the last couple years and it has turned out better than any resume I could have made on any other editor.
+   I am beginning to use LaTex for my Algorithms class and to do this, I have been using Overleaf which is a free, online LaTex development environment. While it is great for formatting documents for homeworks, it's even better for making a beautiful resume. I have used it for my Resume for the last couple of years and it has turned out better than any resume I could have made on any other editor.
 
-   ![](selfie-2-_li.jpg)
+   ![]()
 
 <!--EndFragment-->
