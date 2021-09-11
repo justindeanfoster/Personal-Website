@@ -14,7 +14,7 @@ image:
 
 1. **What did you do this past week?**
 
-   This week I went to a less than full week of classes as we had Monday off for Labor day. Then, I went to classes and worked on my project. On Thursday, the social org I'm in had our first Coffee in which we showed off our new members. It was a lot of fun and a semblance of a return to normalcy. Then, I headed home to celebrate my Mom's birthday.
+   This week I went to a less than full week of classes as we had Monday off for Labor day. Then, I went to classes and worked on my project. On Thursday, the social org I'm in had our first Coffee in which we showed off our new members. It was a lot of fun and a semblance of a return to normalcy. Then, I headed home to celebrate my Mom's birthday. For this class, I learned about optimizations in code and also worked on my Collatz project.
 2. **What's in your way?**
 
    I'm still working on my Collatz project. I had a major roadblock in that my files were all broken due to the Window's file system placing an EOF "\r" at the ends of all my files and corrupting them all so that they could not be ran on my linux subsystem. Very annoying. Now, I'm working to finish up the project and add in the necessary optimizations.
