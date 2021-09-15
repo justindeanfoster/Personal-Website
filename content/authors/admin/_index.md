@@ -66,4 +66,4 @@ user_groups:
 - Visitors
 ---
 
-Justin Foster is a Sophomore at the University of Texas - Austin studying Computer Science. He loves to build and create, whether that is legos or complex software applications. Playing the saxophone and piano for most of his life, Justin is passionate about music and is almost always trying to find the next best artist. After doing Science Fair every year of High School, Justin is always looking for his next project to start.
+Justin Foster is a Junior at the University of Texas - Austin studying Computer Science. He loves to build and create, whether that is legos or complex software applications. Playing the saxophone and piano for most of his life, Justin is passionate about music and is almost always trying to find the next best artist. After doing Science Fair every year of High School, Justin is always looking for his next project to start.
