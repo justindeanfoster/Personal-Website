@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Sophomore Computer Science Student
+role: Junior Computer Science Student
 
 # Organizations/Affiliations
 organizations:
