@@ -1,5 +1,5 @@
 ---
-title: "CS373 Fall 2021: Justin Foster - Blog 3"
+title: "CS373 Fall 2021: Justin Foster - Blog 4"
 date: 2021-09-19T15:16:45.099Z
 draft: false
 featured: false
