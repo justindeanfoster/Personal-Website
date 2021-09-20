@@ -2,7 +2,7 @@
 title: Evil Hangman
 summary: A Java project for my Data Structures classs in which the game tries to beat you in hangman
 tags:
-- Game
+- G
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
