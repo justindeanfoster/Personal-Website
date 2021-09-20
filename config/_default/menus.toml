@@ -28,15 +28,13 @@
   url = "#skills"
   weight = 40
 
-
-  
   [[main]]
   name = "Accomplishments"
   url = "#accomplishments"
   weight = 50
   
     [[main]]
-  name = "blogs"
+  name = "Blogs"
   url = "#posts"
   weight = 60
   
