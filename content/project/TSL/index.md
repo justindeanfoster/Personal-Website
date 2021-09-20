@@ -1,7 +1,6 @@
 ---
 title: AutoGNC
-summary: Public repository of Texas Spacecraft Laboratory
-for the Seeker Team's pipeline
+summary: Public repository of Texas Spacecraft Laboratory for the Seeker Team's pipeline
 tags:
 - G
 - All
