@@ -18,20 +18,21 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed software development, building, and project management.
+bio: My computer science research interests include distributed tool development, machine learning, and project management.
 interests:
 - Software Development
 - Physics and Math
-- Cross-Disciplinary Software Applications
+- Machine Learning
 
 education:
   courses:
-  - course: High School Diploma
-    institution: The Woodlands College Park High School
-    year: 2019
   - course: Bachelors of Science in Computer Science
     institution: University of Texas at Austin
     year: 2023
+  - course: High School Diploma
+    institution: The Woodlands College Park High School
+    year: 2019
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -54,7 +55,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: "files/JustinFosterResume2021.pdf"
+#   link: "files/JustinFosterResume2022.pdf"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -66,4 +67,4 @@ user_groups:
 - Visitors
 ---
 
-Justin Foster is a Junior at the University of Texas - Austin studying Computer Science. He loves to build and create, whether that is legos or complex software applications. Playing the saxophone and piano for most of his life, Justin is passionate about music and is almost always trying to find the next best artist. After doing Science Fair every year of High School, Justin is always looking for his next project to start.
+Justin Foster is a Junior at the University of Texas - Austin studying Computer Science. He loves to build and create, whether that is legos or complex software applications. Playing the saxophone and piano for most of his life, Justin is passionate about music and is almost always trying to find new inspiration to make music. Passionate about all things space and wanting to work in Space Exploration and research, Justin is currently involved with Texas Spacecraft Laboratory developing tools to research machine learning pose estimation for oribiting satelites.
