@@ -28,8 +28,8 @@ subtitle = ""
      tag = "*"
   
    [[content.filter_button]]
-     name = "Sudoku Game and Solver"
-     tag = "Java Project"
+     name = "Games"
+     tag = "G"
   
    [[content.filter_button]]
      name = "Other"
@@ -44,7 +44,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 1
+  view = 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
