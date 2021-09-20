@@ -1,6 +1,6 @@
 ---
 title: Evil Hangman
-summary: A Java project for my Data Structures classs in which the game tries to beat you in hangman
+summary: A Java project for my Data Structures classs in which the game is rigged to beat the user in hangman
 tags:
 - G
 date: "2016-04-27T00:00:00Z"
