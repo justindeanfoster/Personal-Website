@@ -6,7 +6,7 @@ tags:
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://github.com/justindeanfoster/Sudoku"
 
 image:
   caption: Photo by rawpixel on Unsplash
@@ -16,7 +16,7 @@ links:
 - icon: github
   icon_pack: fab
   name: Code
-  url: https://github.com/justindeanfoster/Sudoku
+  url: ""
 url_code: ""
 url_pdf: ""
 url_slides: ""
