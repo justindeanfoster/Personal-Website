@@ -13,7 +13,7 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
+- icon: github
   icon_pack: fab
   name: Code
   url: https://github.com/justindeanfoster/Sudoku
