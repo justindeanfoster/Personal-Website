@@ -2,7 +2,7 @@
 title: AutoGNC
 summary: Public repository of Texas Spacecraft Laboratory for the Seeker Team's pipeline
 tags:
-- G
+- R
 - All
 date: "2016-04-27T00:00:00Z"
 
