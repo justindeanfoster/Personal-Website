@@ -67,4 +67,4 @@ user_groups:
 - Visitors
 ---
 
-Justin Foster is a Junior at the University of Texas - Austin studying Computer Science. He loves to build and create, whether that is legos or complex software applications. Playing the saxophone and piano for most of his life, Justin is passionate about music and is almost always trying to find new inspiration to make music. Passionate about all things space and wanting to work in Space Exploration and research, Justin is currently involved with Texas Spacecraft Laboratory developing tools to research machine learning pose estimation for oribiting satelites.
+Justin Foster is a Junior at the University of Texas - Austin studying Computer Science. He loves to build and create, whether that is legos or complex software applications. Playing the saxophone and piano for most of his life, Justin is passionate about music and is almost always trying to find new inspiration to make music. Passionate about all things space and wanting to work in Space Exploration and research, Justin is currently involved with Texas Spacecraft Laboratory developing machine learning tools to research pose estimation for oribiting satelites.
