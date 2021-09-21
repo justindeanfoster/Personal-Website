@@ -34,6 +34,4 @@ image:
    \
    My pick of the week is to practice Technical interviews with the technical interviews section of hackerrank or with LeetCode. I personally found that I like LeetCode better but whatever site you can find to use will give ample to be able to ace interview questions.
 
-
-
 <!--EndFragment-->
