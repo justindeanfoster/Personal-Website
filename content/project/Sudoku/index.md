@@ -1,5 +1,4 @@
 ---
-draft: true
 slides: ""
 url_pdf: ""
 title: Sudoku Solver
