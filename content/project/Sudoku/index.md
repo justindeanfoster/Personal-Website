@@ -4,12 +4,12 @@ slides: ""
 url_pdf: ""
 title: Sudoku Solver
 date: 2016-04-27T00:00:00Z
-summary: A small sudoku solver I wrote when I was bored
+summary: A small sudoku solver I wrote after I had seen my professor right one in Data Structures
 url_video: ""
 featured: true
 tags:
   - G
-  - All
+  - *
 external_link: https://github.com/justindeanfoster/Sudoku
 url_slides: ""
 links:
