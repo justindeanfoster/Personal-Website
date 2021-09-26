@@ -10,9 +10,7 @@ image:
 ---
 ![](selfie-2-_li.jpg)
 
-<!--StartFragment-->
-
-1. <!--StartFragment-->
+ <!--StartFragment-->
 
    **1. What did you do this past week?**
 
