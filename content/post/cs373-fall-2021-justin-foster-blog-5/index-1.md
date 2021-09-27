@@ -12,9 +12,9 @@ image:
 
  <!--StartFragment-->
 
-   **1. What did you do this past week?**
+1. **What did you do this past week?**
 
-1. This past week I attended class and learned more about programming types and how operations are interpreted in python vs. java. I also began work with my team on our project proposal. We intend to do an IMDB for grocery stores, their locations, and their items.
+   1. This past week I attended class and learned more about programming types and how operations are interpreted in python vs. java. I also began work with my team on our project proposal. We intend to do an IMDB for grocery stores, their locations, and their items.
 2. **What's in your way?**
 
    1. This upcoming week I have my algorithms test and I also need to make significant progress for our first week project. We have made a good outline for what we need to do but the largest challenge will be just figuring out where to start.
