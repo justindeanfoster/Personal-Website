@@ -4,7 +4,7 @@ date: 2021-09-26T00:05:31.694Z
 draft: false
 featured: false
 image:
-  filename: selfie-2-_li.jpg
+  filename: featured
   focal_point: Smart
   preview_only: false
 ---
