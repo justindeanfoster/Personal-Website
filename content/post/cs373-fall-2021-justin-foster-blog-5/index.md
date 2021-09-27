@@ -2,9 +2,9 @@
 title: "CS373 Fall 2021: Justin Foster - Blog 5"
 date: 2021-09-19T17:34:49.396Z
 draft: false
-featured: true
+featured: false
 image:
-  filename: selfie-2-_li.jpg
+  filename: featured
   focal_point: Smart
   preview_only: false
 ---
