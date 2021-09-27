@@ -8,9 +8,11 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+
+
 ![](selfie-2-_li.jpg)
 
- <!--StartFragment-->
+<!--StartFragment-->
 
 1. **What did you do this past week?**
 
