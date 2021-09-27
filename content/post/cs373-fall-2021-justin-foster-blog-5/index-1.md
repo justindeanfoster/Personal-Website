@@ -2,9 +2,9 @@
 title: "CS373 Fall 2021: Justin Foster - Blog 5"
 date: 2021-09-19T17:34:49.396Z
 draft: false
-featured: false
+featured: true
 image:
-  filename: featured
+  filename: selfie-2-_li.jpg
   focal_point: Smart
   preview_only: false
 ---
@@ -12,9 +12,7 @@ image:
 
 <!--StartFragment-->
 
-
 ![](selfie-2-_li.jpg)
-
 
 1. **What did you do this past week?**\
 
@@ -37,4 +35,3 @@ image:
 7. **What's your pick-of-the-week or tip-of-the-week?**\
 
    1. My tip of the week is to apply to as many internships as possible and then to take as many online tests as you can to prepare. Even if you don't have any interest in the company, these tests will be the best way to practice assessments for the companies that you do care about.
-<!--EndFragment-->
