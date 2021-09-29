@@ -6,6 +6,9 @@ summary: Using Blender's python API, I generated image sets of the Cygnus
   pipeline to do Pose Estimation of its simulated flight.
 draft: false
 featured: false
+tags:
+  - R
+  - All
 external_link: '""'
 image:
   filename: featured.png
