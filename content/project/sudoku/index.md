@@ -5,6 +5,7 @@ draft: false
 featured: false
 tags:
   - G
+  - All
 external_link: https://github.com/justindeanfoster/Sudoku
 links: []
 image:
