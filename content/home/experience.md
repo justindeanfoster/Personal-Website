@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   company_url = "https://sites.utexas.edu/tsl/"
   location = "Texas"
   date_start = "2021-02-01"
-  date_end = "2021-08-01"
+  date_end = ""
   description = """
   Responsibilities include:
   
