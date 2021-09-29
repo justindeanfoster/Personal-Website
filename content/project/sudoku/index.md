@@ -3,6 +3,8 @@ title: Sudoku
 date: 2021-09-29T16:09:51.795Z
 draft: false
 featured: false
+tags:
+  - G
 external_link: https://github.com/justindeanfoster/Sudoku
 links: []
 image:
