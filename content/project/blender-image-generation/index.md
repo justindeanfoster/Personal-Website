@@ -16,4 +16,5 @@ image:
 Using Blender's python API, I generated image sets of the Cygnus
   Satellite in orbit in order for the  TSL Seeker team's machine learning
   pipeline to do Pose Estimation of its simulated flight.
-  ![]output.mp4
+  
+  ![]featured.png
