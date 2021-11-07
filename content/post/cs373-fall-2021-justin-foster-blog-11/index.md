@@ -14,7 +14,7 @@ image:
 
 1. What did you do this past week?
 
-   1. This last week I studied a lot for my Algorithms test and then went to my classes. The test was on Wednesdaty and I felt it went okay. I am very glad we had the test though because there are two weeks surrounding each test where we do not have homework for ALgo and that is a huge relief around my schedule. 
+   1. This last week I studied a lot for my Algorithms test and then went to my classes. The test was on Wednesdaty and I felt it went okay. I am very glad we had the test though because there are two weeks surrounding each test where we do not have homework for Algo and that is a huge relief around my schedule. 
 2. What's in your way?
 
    1. In my way this week is the third phase of the IDB project. My team has just begun work and will start implementing sorting and filtering on our website. Tonight, I think I will be adding the filter buttons to each model to allow my team to begin to connect to these new endpoints. I am very excited to see how our website ends up looking because I am fairly proud of the work we have done so far. 
