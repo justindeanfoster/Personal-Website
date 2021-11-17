@@ -12,6 +12,10 @@ image:
 
 <!--StartFragment-->
 
+Hey! I accidentally sent my last weeks link, here is link 12!
+
+https://www.justindeanfoster.com/post/cs373-fall-2021-justin-foster-blog-12/
+
 1. What did you do this past week?
 
    1. This last week I studied a lot for my Algorithms test and then went to my classes. The test was on Wednesdaty and I felt it went okay. I am very glad we had the test though because there are two weeks surrounding each test where we do not have homework for Algo and that is a huge relief around my schedule. 
