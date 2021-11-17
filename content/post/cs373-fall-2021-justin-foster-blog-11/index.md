@@ -12,9 +12,9 @@ image:
 
 <!--StartFragment-->
 
-Hey! I accidentally sent my last weeks link, here is link 12!
+Hey! I accidentally sent my last weeks link, here is link for 12!
 
-https://www.justindeanfoster.com/post/cs373-fall-2021-justin-foster-blog-12/
+<https://www.justindeanfoster.com/post/cs373-fall-2021-justin-foster-blog-12/>
 
 1. What did you do this past week?
 
