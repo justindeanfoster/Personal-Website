@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Junior Computer Science Student
+role: Senior Computer Science Student
 
 # Organizations/Affiliations
 organizations:
@@ -18,11 +18,13 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My computer science research interests include distributed tool development, machine learning, and project management.
+bio: My computer science research interests include space exploration, software development, and data science.
 interests:
 - Software Development
-- Physics and Math
+- Data Science
 - Machine Learning
+- Photography
+- Weightlifting
 
 education:
   courses:
@@ -67,4 +69,4 @@ user_groups:
 - Visitors
 ---
 
-Justin Foster is a Junior at the University of Texas - Austin studying Computer Science. He loves to build and create, whether that is legos or complex software applications. Playing the saxophone and piano for most of his life, Justin is passionate about music and is almost always trying to find new inspiration to make music. Passionate about all things space and wanting to work in Space Exploration and research, Justin is currently involved with Texas Spacecraft Laboratory developing machine learning tools to research pose estimation for oribiting satellites.
+My name is Justin Foster and I am a Senior Computer Science Student at UT Austin. I have loved to build my entire life beginning beginning with legos and becoming code. I enjoy carpentry and photography as some of my hobbies: I have built a set of record shelves and an 8 foot table as well as gone on some amazing trips where I captured great photos. I am deeply passionate about Space and its intersection with cutting-edge technology and it is my dream to work on this technology.
