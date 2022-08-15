@@ -69,4 +69,4 @@ user_groups:
 - Visitors
 ---
 
-My name is Justin Foster and I am a Senior Computer Science Student at UT Austin. I have loved to build my entire life beginning beginning with legos and becoming code. I enjoy carpentry and photography as some of my hobbies: I have built a set of record shelves and an 8 foot table as well as gone on some amazing trips where I captured great photos. I am deeply passionate about Space and its intersection with cutting-edge technology and it is my dream to work on this technology.
+My name is Justin Foster and I am a Senior Computer Science Student at UT Austin. I have loved to build my entire life beginning with legos and eventually becoming code. In my free time, I enjoy carpentry and photography as some of my hobbies. I have built a set of record shelves and an 8 foot table as well as gone on some amazing trips where I captured great photos. I am deeply passionate about Space and its intersection with cutting-edge technology and it is my dream to be able to add my contribution to this technology.
