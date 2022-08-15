@@ -29,23 +29,23 @@ date_format = "Jan 2006"
   description = "Earned Eagle Scout Badge After 10 years in the Scouts"
 
 [[item]]
-  organization = "Academy of Science and Engineering"
+  organization = "Dolphin Scholarship"
   organization_url = "https://cpast.conroeisd.net/"
-  title = "1st Place in Scrap Derby Engineering Competiton"
+  title = "Lockheed Martin RMS Dolphin Scholarship Recipient"
   url = ""
   certificate_url = ""
-  date_start = "2019-10-15"
+  date_start = "2019-08-15"
   date_end = ""
-  description = "Using scrap found around the house and physics, I won 1st place for my car design"
+  description = "Named Lockheed Martin RMS Dolphin Scholarship Recipient by the Dolphin Scholarship Foundation"
   
 [[item]]
   organization = "University of Texas Austin"
   organization_url = "https://www.utexas.edu/"
-  title = "Deans List"
+  title = "University Honors"
   url = ""
   certificate_url = ""
   date_start = "2020-12-30"
   date_end = ""
-  description = "Finished with a 4.0 during an all online semester"
+  description = "Received University Honors for 7 semesters in a row"
 
 +++
