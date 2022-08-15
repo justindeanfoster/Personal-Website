@@ -17,12 +17,7 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Software Languages and Libraries"
-  content = "Python        
-              - Pandas
-              - Numpy
-              - Matplotlib
-              - Seaborn
-              - SciKitlearn"
+  content = "Python"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
