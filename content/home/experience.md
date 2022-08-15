@@ -20,19 +20,7 @@ date_format = "Jan 2006"
 
 
 
- [[experience]]
-  title = "Software Engineer Intern"
-  company = "Lockheed Martin"
-  company_url = "https://www.lockheedmartin.com/en-us/index.html"
-  location = "Ft. Worth, Texas"
-  date_start = "2022-05-01"
-  date_end = "2018-08-15"
-  description = """
-  * Worked within the F-35 DevSecOps Fusion team to implement a recommender algorithm for emitter data.
-  * Created a python module in order to create synthetic Spectre Data in order to be used to train a machine learning model
-  * Presented work to leadership in order to integrate into currently used software
-"""
-
+ 
 
 [[experience]]
   title = "Seeker Mission Researcher and Developer"
@@ -46,6 +34,18 @@ date_format = "Jan 2006"
 
   """
   
+[[experience]]
+  title = "Software Engineer Intern"
+  company = "Lockheed Martin"
+  company_url = "https://www.lockheedmartin.com/en-us/index.html"
+  location = "Ft. Worth, Texas"
+  date_start = "2022-05-01"
+  date_end = "2018-08-15"
+  description = """
+  * Worked within the F-35 DevSecOps Fusion team to implement a recommender algorithm for emitter data.
+  * Created a python module in order to create synthetic Spectre Data in order to be used to train a machine learning model
+  * Presented work to leadership in order to integrate into currently used software
+"""
 
 
 [[experience]]
