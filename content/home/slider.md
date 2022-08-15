@@ -58,7 +58,7 @@ height = "300px"
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "linkedin"
-  cta_url = "https://github.com/justindeanfoster//"
+  cta_url = "https://www.linkedin.com/in/justindeanfoster/"
   cta_icon_pack = "linkedin"
   cta_icon = "graduation-cap"
 +++
