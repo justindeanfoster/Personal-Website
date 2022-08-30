@@ -15,10 +15,9 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "far fa-file-code"
-  icon_pack = "far"
-  name = "Java, C/C++, Python"
-  description = "Known Languages"
+  icon = "fa-brands fa-python"
+  icon_pack = "fa-brands"
+  name = " Python"
   
 [[feature]]
   icon = "fas fa-music"
