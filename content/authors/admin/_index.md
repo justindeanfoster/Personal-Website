@@ -18,13 +18,13 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My computer science research interests include space exploration, software development, and data science.
+bio: My computer science research interests include art, machine learning, and data science.
 interests:
 - Software Development
 - Data Science
 - Machine Learning
 - Photography
-- Weightlifting
+- Music
 
 education:
   courses:
@@ -69,4 +69,6 @@ user_groups:
 - Visitors
 ---
 
-My name is Justin Foster and I am a Senior Computer Science Student at UT Austin. I have loved to build my entire life beginning with legos and eventually becoming code. In my free time, I enjoy carpentry and photography as some of my hobbies. I have built a set of record shelves and an 8 foot table as well as gone on some amazing trips where I captured great photos. I am deeply passionate about Space and its intersection with cutting-edge technology and it is my dream to be able to add my contribution to this technology.
+Software Engineer with 2+ years of experience in developing scalable data-driven machine learning solutions. Passionate
+about applying statistics, data science, and machine learning to solve big data challenges. Eager to leverage expertise and
+leadership in data-driven projects and predictive modeling. In my spare time, I am interested in sketching + photographing the world around me, playing new songs on new instruments, and sitting on my couch. 
