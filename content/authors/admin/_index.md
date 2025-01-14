@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Computer Science Student
+role: Software Engineer Asc. 
 
 # Organizations/Affiliations
 organizations:
-- name: University of Texas Austin
+- name: Lockheed Martin - Combat ID Data 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
